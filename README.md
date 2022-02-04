@@ -1,6 +1,6 @@
 # Web scraping
 
-This program allows you to scrap all ICD 10 codes of the website [icd10.com](https://www.icd10data.com/)
+This program allows you to scrap all ICD 10 codes of the website [icd10.com](https://www.icd10data.com/ICD10CM/Codes)
 
 __To start the application:__
 
